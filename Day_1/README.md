@@ -6,12 +6,12 @@ What I Learned:
 
 
 🔹 Home Tab
-    Used for designing and formatting data
-    Controls:
-    Font settings (size, color, bold, etc.)
-    Text alignment
-    Number/data formatting (e.g., currency, percentage
-    Filtering and sorting data
+   - Used for designing and formatting data
+    -Controls:
+      -Font settings (size, color, bold, etc.)
+      -Text alignment
+      -Number/data formatting (e.g., currency, percentage
+      -Filtering and sorting data
 
 🔹 Insert Tab
     Used to insert different elements into the sheet:
