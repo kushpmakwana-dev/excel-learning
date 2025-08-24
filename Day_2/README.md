@@ -1,1 +1,4 @@
-
+- Soo I learned about different operators over here, I calculated the Total salary by adding Salary and Bonus
+- Also calculated Bonus rate by dividing the bonus by Salary and also cross check whether it is correct or not by the column *Confirm Total*
+- I used formula, got familiar with the formula and Operators
+-  
